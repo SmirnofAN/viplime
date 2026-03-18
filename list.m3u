@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-# Основные
+# Основные 
 #EXTINF:0  group-title="Основные" catchup-days="3" tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift",  НТВ HD
 http://cdntv.online/high/8xmsh76bny/360.m3u8
 #EXTINF:0  group-title="Основные" catchup-days="3" tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" catchup="shift",  СТС HD
